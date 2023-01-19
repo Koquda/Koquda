@@ -1,5 +1,18 @@
-
-
+### Hi there 👋, Alejandro Campa Martínez
+#### Software Engineer Student
 I'm Alejandro Campa Martínez from Spain, and I study Software Engineer in University of Oviedo. 
 
-[![Koquda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koquda)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on Third year in Universisty of Oviedo 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Koquda)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koquda)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Koquda&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Koquda)  
+
+![GitHub metrics](https://metrics.lecoq.io/Koquda)  
+
+![Profile views](https://gpvc.arturio.dev/Koquda)  
