@@ -7,8 +7,8 @@
 I'm Alejandro Campa Martínez from Spain, and I study Software Engineer in University of Oviedo. 
 
 ##### About me
-- I’m currently on Third year in Universisty of Oviedo 
-- I'm currently looking for learning oportunities as well as work experience and internships
+- I’m currently on Fifth year in Universisty of Oviedo 
+- I'm currently working in ASAC Comunicaciones as a Cloud Software Engineer/Developer
 
 ##### Languages and Tools :
 
