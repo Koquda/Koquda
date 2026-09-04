@@ -3,11 +3,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-#### Software Engineer Student
-I'm Alejandro Campa Martínez from Spain, and I study Software Engineer in University of Oviedo. 
+#### Software Engineer
+I'm Alejandro Campa Martínez from Spain, I studied Software Engineering in Universidad de Oviedo and currently I am an incoming student in the Masters of Computer Science and Business Technology in IE Univeristy.
 
 ##### About me
-- I’m currently on Fifth year in Universisty of Oviedo 
 - I'm currently working in ASAC Comunicaciones as a Cloud Software Engineer/Developer
 
 ##### Languages and Tools :
